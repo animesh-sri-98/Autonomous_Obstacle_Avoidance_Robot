@@ -3,5 +3,5 @@ Obstacle avoidance is considered as one of the main features of autonomous intel
 # 1. Methodology
 In the proposed method, ultrasonic sensors are used to collect data related to range of the obstacles and IR sensors to measure the wheel velocities. Unlike other methods we use the collected data to build a machine learning model, which takes ultrasonic sensor data as input feature and predicts the left wheel velocity and right wheel velocity.The entire process of building the autonomous obstacle avoidance robot is divided into three phases as shown in fig 1.
 
-< img src="images/fig1.jpg" width="100">
+![](https://github.com/animesh-sri-98/Autonomous_Obstacle_Avoidance_Robot/images/fig1.jpg?raw=true)
 
